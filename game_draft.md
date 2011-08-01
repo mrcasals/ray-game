@@ -1,1 +1,0 @@
-Draft of an RPG game using Ray, this awesome library!
